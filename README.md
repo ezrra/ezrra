@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Israel</h1>
 <h3 align="center">Frontend and mobile dev</h3>
 
