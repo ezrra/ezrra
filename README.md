@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **israel.martinez.vargas@gmail.com**
 
-- 📄 Know about my experiences [frontend](frontend)
+- 📄 Know about my experiences frontend, react and react native
 
 - ⚡ Fun fact **Anime!**
 
