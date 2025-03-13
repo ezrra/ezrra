@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Israel</h1>
-<h3 align="center">Frontend and mobile dev</h3>
+<h1 align="center">Hi 👋</h1>
+<h3 align="center">Frontend and mobile (React Native)</h3>
 
 - 🔭 I’m currently working on [Go Bravo](https://gobravo.io/)
-
-- 💬 Ask me about **react, react native, expo**
 
 - 📫 How to reach me **israel.martinez.vargas@gmail.com**
 
