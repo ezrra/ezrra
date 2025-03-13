@@ -9,7 +9,6 @@
 
 - 📄 Know about my experiences frontend, react and react native
 
-- ⚡ Fun fact **Anime!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
